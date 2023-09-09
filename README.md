@@ -1,5 +1,6 @@
-STAGE ONE TASK
-- [] Task: Frontend Page Creation with Specific Elements
+### STAGE ONE TASK
+
+-[ ] Task: Frontend Page Creation with Specific Elements
 Objective: Develop and host a web page using HTML, CSS and JS that showcases specific personal and real-time data attributes. Each required element should have a specified data-testid attribute for easy identification and testing.
 Requirements:
 Slack Name:
@@ -15,7 +16,7 @@ Attribute: data-testid="currentDayOfTheWeek"
 Current UTC Time:
 Display the current UTC time in milliseconds,.
 Attribute: data-testid="currentUTCTime"
-Track:
+ Track:
 Mention your track (e.g Frontend).
 Attribute: data-testid="myTrack"
 GitHub URL:
